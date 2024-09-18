@@ -1,3 +1,4 @@
+#Input
 num1 = float(input("Please enter a number: "))
 num2 = float(input("Please enter another number: "))
 
